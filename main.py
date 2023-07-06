@@ -41,7 +41,7 @@ async def websocket_endpoint(websocket: WebSocket):
     qa_chain = get_chain(vectorstore, question_handler, stream_handler)
     # Use the below line instead of the above line to enable tracing
     # Ensure `langchain-server` is running
-    # qa_chain = get_chain(vectorstore, question_handler, stream_handler, tracing=True)
+    #qa_chain = get_chain(vectorstore, question_handler, stream_handler, tracing=True)
 
     while True:
         try:
@@ -76,5 +76,11 @@ async def websocket_endpoint(websocket: WebSocket):
 
 if __name__ == "__main__":
     import uvicorn
+    import os
 
-    uvicorn.run(app, host="0.0.0.0", port=9000)
+    os.environ["OPENAI_API_TYPE"] = "azure"
+    os.environ["OPENAI_API_BASE"] = "https://srm-openai.openai.azure.com"
+    os.environ["OPENAI_API_KEY"] = "9583eee5d78848409e827030f3e27790"
+    os.environ["OPENAI_API_VERSION"] = "2023-03-15-preview"
+
+    uvicorn.run(app, host="127.0.0.1", port=8000)

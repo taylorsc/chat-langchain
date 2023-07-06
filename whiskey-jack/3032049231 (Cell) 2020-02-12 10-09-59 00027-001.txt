@@ -1,0 +1,19 @@
+KENZIE:  Hello? 
+
+OWEN: Hi, Kenzie. 
+
+KENZIE: Oh, how's it going?
+
+OWEN: Not great. I'm at the supplier and there's something wrong with our purchase order. 
+
+KENZIE: Oh, what's the problem? 
+
+OWEN: They said that the payment didn't go through in the last order. 
+
+KENZIE: That's weird. I'll take a look into it and get back to you. 
+
+OWEN: Okay. Want me to head to the Santos place? 
+
+KENZIE: Uh, yes. I'll talk to you later, okay? Bye. 
+
+OWEN: Okay, bye. 

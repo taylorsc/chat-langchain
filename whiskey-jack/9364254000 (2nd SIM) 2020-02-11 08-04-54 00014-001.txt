@@ -1,0 +1,45 @@
+HOTEL-OP: Hotel Bogota. How can I help you?
+
+BILLY: Room 153. 
+
+HOTEL-OP: Yes, yes. One moment please.
+
+RAY: Hello. 
+
+BILLY: Is this better? 
+
+RAY: Much better, my friend. Thank you. 
+
+BILLY: How's things? 
+
+RAY: On schedule. Very good. Very, very good. 
+
+BILLY: Good. I have my man on your way. He'll meet you at the same place, yes? 
+
+RAY: Yes. Tomorrow at six in the evening. 
+
+BILLY: Will you be back by then? 
+
+RAY: Oh, yes. I have a business meeting today in two hours.  Afterwards, I will return. 
+
+BILLY: This is good. Okay, uh, how much? 
+
+RAY: It will be the same as last time. 
+
+BILLY: No, no, no. Uh, not good enough. I need more. 
+
+RAY: No, my friend. There is no more. Next week, soon. For now, this is enough. 
+
+BILLY: It's not enough. 
+
+RAY: There is no more. Next week. Next week, I will come back, and there is more then. 
+
+BILLY: Oh, I guess that'll have to do. You're not holding out on me, right? 
+
+RAY: I do not know what this means. 
+
+BILLY: Yes, you do. 
+
+RAY: That is all, my friend. I will see our man tomorrow.  For now, I must go. 
+
+BILLY: Okay, bye. 

@@ -1,0 +1,25 @@
+RICHARD:  Hello? 
+
+TBI-B: Hey, is this Richard? 
+
+RICHARD: Yep. 
+
+TBI-B: Hey, that's me. So, how's it going? 
+
+RICHARD: It's going well, you? 
+
+TBI-B: Good, good. I need you to go see the big man for me. 
+
+RICHARD: Okay, what, same place as last time? 
+
+TBI-B: Yeah, same place. Should be there at the same time as normal. 
+
+RICHARD: All right. 
+
+TBI-B: Just go and see him and take care of it, all right? 
+
+RICHARD: All right, sounds good. 
+
+TBI-B: Okay. Let me know when you're done. 
+
+RICHARD: Yeah, will do. Bye. Later. 

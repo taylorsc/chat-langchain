@@ -8,6 +8,6 @@ langchain
 uvicorn
 jinja2
 faiss-cpu
-bs4
-unstructured
 libmagic
+tiktoken
+sentence_transformers

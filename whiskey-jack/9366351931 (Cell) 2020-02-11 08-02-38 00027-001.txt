@@ -1,0 +1,15 @@
+SPEAKER_00: Hello? 
+
+BILLY: Hey, be sure not to mention this to nobody. 
+
+TBI-A: I'm not. 
+
+BILLY: I know, I'm just nervous and want to make sure. 
+
+TBI-A: I know, I know. I'll be careful. 
+
+BILLY: Make sure you are. 
+
+TBI-A: I will. 
+
+BILLY: Bye. Bye. 
